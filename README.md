@@ -2,7 +2,7 @@
 
 AURA is an experimental AI-powered robotics project that combines speech, vision, memory, motion control, and Arduino communication into a single interactive system.
 
-![AURA 0.8](AURA%200.8%20.png)
+![AURA 0.8](images/aura-0.8.png)
 
 ## Overview
 
