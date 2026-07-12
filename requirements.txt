@@ -1,0 +1,9 @@
+numpy
+opencv-python
+sounddevice
+soundfile
+openai-whisper
+torch
+ultralytics
+pyserial
+ollama

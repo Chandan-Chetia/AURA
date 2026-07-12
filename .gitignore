@@ -1,0 +1,53 @@
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+*.venv
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Editors and OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Local audio / model files
+*.wav
+*.mp3
+*.mp4
+*.pt
+*.onnx
+*.bin
+*.pth
+*.ckpt
+*.zip
+*.tar
+*.gz
+
+temp.wav
+
+# Large local assets
+models/
+speech/models/
+ffmpeg/
